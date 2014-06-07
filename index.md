@@ -2,6 +2,13 @@ Index of mxeoctave.osuv.de - official website: [octave.org](http://octave.org)
 
 Inofficial GNU Octave builds for Windows  
 
+**ip address of this server has changed!**  
+
+it's now 146.185.178.52  
+it'll take some time if the dns record is updated everywhere
+
+
+
 #### 3.8.1-3
 
 * installer   
