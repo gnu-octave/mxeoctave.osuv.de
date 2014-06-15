@@ -2,23 +2,19 @@ Index of mxeoctave.osuv.de - official website: [octave.org](http://octave.org)
 
 Inofficial GNU Octave builds for Windows  
 
-**ip address of this server has changed!**  
 
-it's now 146.185.178.52  
-it'll take some time if the dns record is updated everywhere
+#### 3.8.1-4
 
-
-
-#### 3.8.1-3
+Now compiled with --enable-jit and --enable-java
 
 * installer   
-    * [download](http://mxeoctave.osuv.de/octave-3.8.1-3-installer.exe) (106mb, .exe)
-    * md5sum: 6f8b46b35aa394b47935a46f19ef1d5d
+    * [download](http://mxeoctave.osuv.de/octave-3.8.1-4-installer.exe) (121mb, .exe)
+    * md5sum: 8c8b02712db0b4b2845880652a907fcc
 * portable  
-    * [download](http://mxeoctave.osuv.de/octave-3.8.1-3-portable.7z) (95mb, .7z)
-    * md5sum: aab6f637bbf7a9b64f9b22ef14c3dce3
-    * [download](http://mxeoctave.osuv.de/octave-3.8.1-3-portable.zip) (167mb, .zip)
-    * md5sum: 48fdef16eced993f84aa3d8175b74061
+    * [download](http://mxeoctave.osuv.de/octave-3.8.1-4-portable.7z) (110mb, .7z)
+    * md5sum: 7c14d567dce8ef50af6373b6398378b2
+    * [download](http://mxeoctave.osuv.de/octave-3.8.1-4-portable.zip) (189mb, .zip)
+    * md5sum: d99e5d7da3519a512eb2fbc80c773494
 
 #### 3.8.0-5
 
