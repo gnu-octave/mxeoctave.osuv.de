@@ -22,3 +22,11 @@ If you want to contact me _(maintainer of mxeoctave.osuv.de)_ ...
 * [keybase.io](https://keybase.io/notagain)
 * [github.com](https://github.com/markuman)
 * [impressum](https://impressum.osuv.de)
+
+
+----
+sponsor - server location NL@Amsterdam  
+
+[<img src="digitalocean.png">](https://digitalocean.com/)
+
+

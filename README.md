@@ -27,3 +27,11 @@ less: Unknown option -X
 If you got something like that, or  "There is no -X flag ("less -\?" for help)"
 you have to add the C:\octave-3.8.1\bin" path to the windows "PATH"
 Alternativly, try [octave-gui.bat](http://mxeoctave.osuv.de/octave-gui.bat) file.
+
+
+----
+sponsor - server location NL@Amsterdam  
+
+[<img src="digitalocean.png">](https://digitalocean.com/)
+
+
